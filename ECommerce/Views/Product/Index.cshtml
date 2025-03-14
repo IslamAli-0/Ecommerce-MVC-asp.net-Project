@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ECommerce.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h1>Products</h1>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4" style="margin-bottom: 20px;">
+            <div class="card">
+                <img src="@item.Img" class="card-img-top" alt="@item.Name" style="height: 200px; object-fit: cover;">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text"><strong>Price: </strong>$@item.Price</p>
+                    <p class="card-text"><strong>Category: </strong>@item.Category.Name</p>
+                    <a href="/Product/Details/@item.Id" class="btn btn-info">Details</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
