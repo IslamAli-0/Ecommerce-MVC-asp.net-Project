@@ -26,7 +26,7 @@ A simple e-commerce management system built with ASP.NET Core MVC and Entity Fra
 ## Setup
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/IslamAli-0/Ecommerce-MVC-asp.net-Project.git
    ```
 2. Update the database connection string in `appsettings.json`.
 3. Run the migration and seed data:  
