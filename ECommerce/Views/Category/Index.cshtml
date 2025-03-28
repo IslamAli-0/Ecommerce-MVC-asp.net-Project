@@ -1,6 +1,7 @@
-﻿@{
+﻿@model List<ECommerce.Models.Category>
+
+@{
     ViewData["Title"] = "Categories";
-    var categories = ViewData["Categories"] as List<ECommerce.Models.Category>;
 }
 
 <h1>Categories</h1>
@@ -15,7 +16,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in categories)
+        @foreach (var item in Model)
         {
             <tr>
                 <td>@item.Id</td>
@@ -23,8 +24,12 @@
                 <td>@item.Description</td>
                 <td>
                     <a href="/Category/Details/@item.Id" class="btn btn-info">Details</a>
+                    <a href="/Category/Edit/@item.Id" class="btn btn-warning">Edit</a>
+                    <a href="/Category/Delete/@item.Id" class="btn btn-danger">Delete</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+<a asp-controller="Category" asp-action="Create" class="btn btn-primary">Create New Category</a>

@@ -17,17 +17,21 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model)
+        @foreach (var order in Model)
         {
             <tr>
-                <td>@item.Id</td>
-                <td>@item.Customer.Name</td>
-                <td>@item.OrderDate.ToString("MM/dd/yyyy")</td>
-                <td>$@item.TotalAmount</td>
+                <td>@order.Id</td>
+                <td>@order.Customer.Name</td>
+                <td>@order.OrderDate.ToString("MM/dd/yyyy")</td>
+                <td>$@order.TotalAmount</td>
                 <td>
-                    <a href="/Order/Details/@item.Id" class="btn btn-info">Details</a>
+                    <a href="/Order/Details/@order.Id" class="btn btn-info">Details</a>
+                    <a href="/Order/Edit/@order.Id" class="btn btn-warning">Edit</a>
+                    <a href="/Order/Delete/@order.Id" class="btn btn-danger" onclick="return confirm('Are you sure?');">Delete</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+<a href="/Order/Create" class="btn btn-primary">Create New Order</a>
