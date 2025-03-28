@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|c:\\users\\islam\\onedrive\\desktop\\learningc#\\ecommerce\\ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|c:\\users\\islam\\onedrive\\desktop\\learningc#\\ecommerce\\ecommerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|c:\\users\\islam\\onedrive\\desktop\\learningc#\\ecommerce\\ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|c:\\users\\islam\\onedrive\\desktop\\learningc#\\ecommerce\\ecommerce\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|c:\\users\\islam\\onedrive\\desktop\\learningc#\\ecommerce\\ecommerce\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D20658-FEAA-4240-A1D1-86A9A15226F5}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:09:17.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv1cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:08:40.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerce\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ECommerce\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T23:03:55.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:02:25.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerce\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Islam\\OneDrive\\Desktop\\LearningC#\\ECommerce\\ECommerce\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ECommerce\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T23:01:44.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
